@@ -1,0 +1,4 @@
+interface:
+  display_name: "任务深化器 · 补源法验"
+  short_description: "沿用当前任务，补齐专业步骤、原始材料、具体方法和外部验收，再改写提示词"
+  default_prompt: "用 $task-deepener 深化当前任务，先简答补、源、法、验四问，再给我可直接使用的完整提示词。"
